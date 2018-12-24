@@ -9,4 +9,4 @@ Useful Python Projects
 
 4 -  [ ARP Spoofer ] -- Arp Spoofer for posioning the arp and becoming man in the middle
 
-4 -  [ NetCut ] -- Cuts internet connection of the arp spoofed victim
+5 -  [ NetCut ] -- Cuts internet connection of the arp spoofed victim
